@@ -1,0 +1,289 @@
+
+
+.Login_dashboard{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    align-items: center;
+
+
+    background: #E5E5E5;
+}
+
+.Sign_in{
+    justify-content: center;
+
+    font-family: 'Lexend Deca', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 120px;
+    text-align: center;
+
+    color: #224957
+}
+
+.l1{
+    position: relative;
+    align-items: center;
+
+    font-family: 'Lexend Deca', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+
+    color: #224957;
+}
+
+.placement{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: space-evenly;
+    gap: 10px;;
+}
+
+.Input{
+    width: 414.23px;
+    height: 40.33px;
+    top: 434.59px;
+    justify-content: center;
+
+
+    background: #224957;
+    border-radius: 10px;
+    border: none;
+
+    color: #E5E5E5;
+    font-family: 'Lexend Deca', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+
+    
+}
+
+.Input_text{
+    position: absolute;
+    width: 53.85px;
+    height: 31.26px;
+    left: 682.93px;
+    top: 453.34px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+/* or 143% */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+
+
+.green_button{
+    width: 414.23px;
+    height: 40.33px;
+    left: 658.07px;
+    top: 759.67px;
+    background-color: #20DF7F;
+    font-size: 24px;
+    border-radius: 10px;
+    border: none;
+}
+
+.checkbox-wrapper{
+    display: flex;
+    justify-content: space-between;
+    gap: 10%;
+    flex-wrap: nowrap;
+}
+
+.Navbar{
+    position: absolute;
+    width: 384px;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+
+/* vdarkblue */
+
+    background: #0B0B0D;
+    opacity: 0.5;
+    backdrop-filter: blur(20px);
+}
+
+.Dashboard{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    align-items: center;
+
+
+    background: #050729;
+    background-image: url(/public/background.png);
+}
+
+.Navi{
+    position: absolute;
+width: 37px;
+height: 25px;
+left: 139px;
+top: 209px;
+opacity: 1;
+
+}
+
+.items{
+
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    
+    /* Yellow */
+    
+    color: #edc32d;  
+}
+
+.Montserrat{
+    position: relative;
+    width: 1141px;
+    height: 225px;
+    left: 10%;
+    top: 0%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 104px;
+/* or 186% */
+
+
+/* FFF */
+
+color: #FFFFFF;
+}
+
+.Montserrat_gold{
+    position: relative;
+width: 1141px;
+height: 225px;
+left: 23%;
+top: -35%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 120px;
+line-height: 117px;
+/* or 98% */
+
+
+/* Yellow */
+
+color: #F2C94C;
+
+}
+
+.Montserrat_gold0{
+    position: relative;
+width: 1141px;
+height: 225px;
+left: 27%;
+top: -15%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 120px;
+line-height: 117px;
+/* or 98% */
+
+
+/* Yellow */
+
+color: #F2C94C;
+
+}
+
+.percentage{
+    position: relative;
+    top: -240px;
+    left: 45%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 117px;
+    
+color:#f70707;
+
+}
+
+.Map {
+    position: absolute;
+    top: 0px;
+    right : 0px;
+}
+
+.card-container{
+    width: 300px;
+    height: 600px;
+    padding-bottom :0px;
+    overflow: hidden;
+    box-shadow: 0px 0px 15px -5px;
+    background-color: #FFFFFF;
+    border-radius: 5%;
+    padding-bottom: 20%;
+    margin: 1em;
+}
+
+.image-container img{
+    overflow: hidden;
+    height: 200px;
+}
+
+.card-title{
+    position: relative;
+    top: -150px;
+}
+
+.card-body{
+    position: relative;
+    top: -150px;
+}
+
+.Graph{
+    position: absolute;
+    top:0px;
+    right: -700px;
+}
+
+.Graph2{
+    position: absolute;
+    top:655px;
+    right: -700px;
+}
+.Graph3{
+    position: absolute;
+    top:1310px;
+    right: -700px;
+}
+.Graph4{
+    position: absolute;
+    top:1965cdpx;
+    right: -700px;
+}
